@@ -8,6 +8,9 @@ I'm a Product Manager who uses a fusion of analytics and user empathy to develop
 - 😄 Pronouns: He / Him
 - 👾 Fun fact: I love reading manga, playing video games, learning how to draw, and dancing
 
+![Humaaans - Wireframe](https://github.com/nahianjahangir/nahianjahangir/assets/26659817/58ba7646-537a-464e-8848-464409d81e10)
+
+
 <!--
 **nahianjahangir/nahianjahangir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
