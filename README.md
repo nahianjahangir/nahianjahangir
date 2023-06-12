@@ -1,3 +1,6 @@
+<img align="right" src="https://github.com/nahianjahangir/nahianjahangir/blob/main/Humaaans_Wireframe.png" alt="Humaaans Wireframe Illustration" width=300px height=400px/>
+
+
 ### Hi, I'm Nahian 👋🏾
 
 I'm a Product Manager who uses a fusion of analytics and user empathy to develop products. I strive to build impactful features and iterate upon them so they can continue to serve my customers and grow the business. 
@@ -7,9 +10,6 @@ I'm a Product Manager who uses a fusion of analytics and user empathy to develop
 - 💬 You can talk to me about how great the Across the Spiderverse movie was :D
 - 😄 Pronouns: He / Him
 - 👾 Fun fact: I love reading manga, playing video games, learning how to draw, and dancing
-
-![Humaaans - Wireframe](https://github.com/nahianjahangir/nahianjahangir/assets/26659817/58ba7646-537a-464e-8848-464409d81e10)
-
 
 <!--
 **nahianjahangir/nahianjahangir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
