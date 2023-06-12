@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Nahian 👋🏾
+
+I'm a Product Manager who uses a fusion of analytics and user empathy to develop products. I strive to build impactful features and iterate upon them so they can continue to serve my customers and grow the business. 
+
+- 💡 I’m currently working on building a portfolio website and writing posts/articles on my career experiences (so far)
+- 🌱 So far, I've gotten back into learning more about Natural Language Processing and how to apply it
+- 💬 You can talk to me about how great the Across the Spiderverse movie was :D
+- 😄 Pronouns: He / Him
+- 👾 Fun fact: I love reading manga, playing video games, learning how to draw, and dancing
 
 <!--
 **nahianjahangir/nahianjahangir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
